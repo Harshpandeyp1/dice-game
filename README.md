@@ -1,4 +1,4 @@
 ## 🎮 Game Preview
 
-![Dice Game Screenshot](./screenshots/game.png)
+![Dice Game Screenshot](game.png.png)
 
